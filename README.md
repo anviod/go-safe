@@ -1,2 +1,1 @@
-# go-hack
-go-hack 使用golang来实现一些基本的hack技术
+来实现一些基本的安全脚本 用于安全防范
